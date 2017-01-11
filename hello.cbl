@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION. 
        DATA DIVISION.
        WORKING-STORAGE SECTION. 
-       77 dummy PIC x.
+       77 dumy PIC x.
        PROCEDURE DIVISION. 
        MAIN SECTION.
            DISPLAY "hello world" LINE 10 COL 10.
